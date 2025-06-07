@@ -7,6 +7,7 @@ You must have done online shopping and may be aware of the small shopping cart i
 The "Online Shopping System" features are mentioned below:
 
 ➤ Greet user and display the available stock items.
+
 ➤ After selection the category will expand further.
 ➤ Expanded category will show items along with it prices. 
 ➤ After selecting an item to buy system will need user feedback to authenticate for quantity.
